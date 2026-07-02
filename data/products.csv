@@ -1,0 +1,101 @@
+product_id,product_name,category_id,price,stock_quantity
+1,Apple MacBook Air M3,1,2486.58,455
+2,Dell Inspiron 15,1,2263.18,20
+3,HP Pavilion Laptop,1,2001.8,340
+4,Lenovo ThinkPad X1,1,639.2,70
+5,Asus ROG Strix Laptop,1,2485.15,486
+6,Samsung Galaxy S25,1,1762.94,354
+7,Apple iPhone 16,1,1562.54,148
+8,Google Pixel 10,1,2323.72,213
+9,Sony WH-1000XM5 Headphones,1,173.29,413
+10,Logitech MX Master 3S Mouse,1,335.45,125
+11,Razer BlackWidow Keyboard,1,906.52,222
+12,"Samsung 27"" Monitor",1,164.08,234
+13,LG UltraWide Monitor,1,787.15,127
+14,Canon EOS R50 Camera,1,2380.98,464
+15,GoPro HERO13,1,1519.61,386
+16,JBL Flip 6 Speaker,1,771.55,348
+17,Apple Watch Series 10,1,1526.07,174
+18,Anker Power Bank,1,1205.84,195
+19,Kingston 1TB SSD,1,2474.09,330
+20,TP-Link WiFi Router,1,1351.86,394
+21,Python Programming,2,42.25,35
+22,SQL for Data Analysis,2,106.15,372
+23,Machine Learning with Python,2,29.97,57
+24,Deep Learning,2,91.53,450
+25,Data Science Handbook,2,111.24,109
+26,Statistics Essentials,2,39.62,131
+27,Business Analytics,2,22.89,208
+28,Artificial Intelligence,2,73.0,374
+29,Clean Code,2,65.69,475
+30,Design Patterns,2,26.9,190
+31,Database Systems,2,34.93,272
+32,Marketing Fundamentals,2,34.13,300
+33,Financial Analysis,2,109.57,488
+34,Linear Algebra,2,47.23,150
+35,The Pragmatic Programmer,2,108.29,271
+36,Atomic Habits,2,68.07,361
+37,The Lean Startup,2,49.66,30
+38,Thinking in SQL,2,113.99,462
+39,Python Crash Course,2,25.85,151
+40,Algorithms Unlocked,2,104.88,333
+41,Nike Air Max 270,3,163.07,327
+42,Adidas Essentials Hoodie,3,101.51,42
+43,Levi's 501 Jeans,3,198.29,426
+44,Puma Running Shoes,3,285.9,232
+45,Under Armour T-Shirt,3,91.61,192
+46,North Face Jacket,3,237.16,308
+47,Uniqlo Polo Shirt,3,271.47,345
+48,Zara Summer Dress,3,53.88,102
+49,H&M Sweatshirt,3,93.89,439
+50,Tommy Hilfiger Sweater,3,128.37,482
+51,Calvin Klein Socks,3,258.18,317
+52,Columbia Shorts,3,273.5,54
+53,New Balance Sneakers,3,118.37,176
+54,Champion Joggers,3,111.49,73
+55,Reebok Training Shorts,3,237.4,311
+56,Gap Hoodie,3,100.13,87
+57,Converse Chuck Taylor,3,229.98,93
+58,Wrangler Denim Jacket,3,54.3,434
+59,Nike Sports Cap,3,280.66,349
+60,Adidas Backpack,3,192.04,418
+61,Philips Air Fryer XL,4,331.41,180
+62,Dyson Vacuum Cleaner,4,1057.61,434
+63,Nespresso Coffee Machine,4,927.73,460
+64,IKEA Markus Chair,4,1449.02,299
+65,IKEA Linnmon Desk,4,431.93,227
+66,KitchenAid Mixer,4,816.94,61
+67,Tefal Cookware Set,4,1158.43,383
+68,Panasonic Microwave,4,1428.32,23
+69,Black+Decker Toaster,4,229.12,359
+70,Philips Desk Lamp,4,652.61,23
+71,Wooden Bookshelf,4,1438.68,233
+72,Memory Foam Pillow,4,961.53,325
+73,Cotton Blanket,4,495.65,436
+74,Wall Clock,4,1410.99,96
+75,Knife Set,4,145.64,456
+76,Water Filter,4,584.43,216
+77,Electric Kettle,4,569.85,99
+78,Dining Table,4,51.16,167
+79,Office Desk,4,1147.75,164
+80,LED Floor Lamp,4,959.3,52
+81,Wilson Basketball,5,168.41,464
+82,Adidas Football,5,882.73,378
+83,Yonex Tennis Racket,5,485.25,452
+84,Nike Yoga Mat,5,995.5,31
+85,Bowflex Dumbbells,5,25.57,315
+86,Fitbit Charge 6,5,320.34,370
+87,Garmin Forerunner 965,5,284.16,251
+88,Resistance Bands,5,945.76,341
+89,Skipping Rope,5,720.6,264
+90,Camping Tent,5,196.41,482
+91,Sleeping Bag,5,97.75,66
+92,Swimming Goggles,5,722.69,130
+93,Bicycle Helmet,5,59.6,397
+94,Protein Shaker,5,787.27,388
+95,Golf Ball Set,5,888.59,226
+96,Treadmill,5,650.43,427
+97,Exercise Bike,5,472.78,239
+98,Foam Roller,5,644.19,72
+99,Boxing Gloves,5,605.89,326
+100,Hiking Backpack,5,406.78,433
