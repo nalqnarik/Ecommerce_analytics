@@ -40,6 +40,6 @@ ecommerce-analytics/
 │
 ├── data/               # Raw and cleaned datasets (CSV/Parquet)
 ├── sql/                # DDL schemas, views, and analytical queries
-├── dashboard/         # Power BI (.pbix) or Tableau (.twbx) files
+├── dashboard/          # Power BI (.pbix) or Tableau (.twbx) files
 ├── python/             # Python script for data generation
 └── README.md           # Project documentation
